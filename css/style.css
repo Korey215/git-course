@@ -1,0 +1,16 @@
+body {
+  padding: 0;
+  background: purple;
+  margin: 0 auto;
+}
+body h1 {
+  font-size: 2rem;
+}
+body h1 span {
+  font-size: 5rem;
+}
+body h1 span p {
+  background-color: pink;
+}
+
+/*# sourceMappingURL=style.css.map */

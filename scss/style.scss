@@ -1,0 +1,16 @@
+body{
+    padding: 0;
+    background: purple;
+    margin: 0 auto;
+    h1{
+        font-size: 2rem;
+       
+        span{
+            font-size: 5rem;
+            p{
+                background-color: pink;
+            }
+        }
+
+    }
+}
